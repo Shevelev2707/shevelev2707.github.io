@@ -3,12 +3,11 @@
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title><Личная страница</title>
  </head>
  <body>
 
-  <h1><u>Заголовок страницы</u></h1>
-  <p>Основной текст.</p>
+  <h1><u>Личная страница</u></h1>
+  <p>12345</p>
 
  </body>
 </html>
